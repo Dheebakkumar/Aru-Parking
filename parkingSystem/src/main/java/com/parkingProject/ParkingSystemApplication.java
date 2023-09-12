@@ -11,6 +11,7 @@ public class ParkingSystemApplication {
 		SpringApplication.run(ParkingSystemApplication.class, args);
 		
 		System.out.println("Welcome to Vehicle Parking System");
+		System.out.println("Project One");
 	}
 
 }
