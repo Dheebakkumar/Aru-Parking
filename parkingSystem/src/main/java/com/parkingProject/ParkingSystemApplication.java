@@ -12,6 +12,8 @@ public class ParkingSystemApplication {
 		
 		System.out.println("Welcome to Vehicle Parking System");
 		System.out.println("Project One");
+		System.out.println("updated in GitHub");
+
 	}
 
 }
